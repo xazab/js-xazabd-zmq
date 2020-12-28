@@ -1,8 +1,8 @@
 ## Usage example
 
 ```js
-const { ChainLock } = require('@dashevo/dashcore-lib');
-const ZMQClient = require('@dashevo/dashd-zmq');
+const { ChainLock } = require('@xazab/xazabcore-lib');
+const ZMQClient = require('@xazab/xazabd-zmq');
 const client = new ZMQClient({
   protocol: 'tcp',
   host: '0.0.0.0',

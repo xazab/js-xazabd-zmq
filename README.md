@@ -1,11 +1,11 @@
-# Dashd ZMQ
+# Xazabd ZMQ
 
-[![NPM Version](https://img.shields.io/npm/v/@dashevo/dashd-zmq)](https://www.npmjs.com/package/@dashevo/dashd-zmq)
-[![Build Status](https://img.shields.io/travis/com/dashevo/js-dashd-zmq)](https://travis-ci.com/dashevo/js-dashd-zmq)
-[![Release Date](https://img.shields.io/github/release-date/dashevo/js-dashd-zmq)](https://github.com/dashevo/js-dashd-zmq/releases/latest)
+[![NPM Version](https://img.shields.io/npm/v/@xazab/xazabd-zmq)](https://www.npmjs.com/package/@xazab/xazabd-zmq)
+[![Build Status](https://img.shields.io/travis/com/xazab/js-xazabd-zmq)](https://travis-ci.com/xazab/js-xazabd-zmq)
+[![Release Date](https://img.shields.io/github/release-date/xazab/js-xazabd-zmq)](https://github.com/xazab/js-xazabd-zmq/releases/latest)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
 
-Dash Client Library to connect and subscribe to Dash Core (dashd)'s ZMQ topics
+Xazab Client Library to connect and subscribe to Xazab Core (xazabd)'s ZMQ topics
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Dash Client Library to connect and subscribe to Dash Core (dashd)'s ZMQ topics
 ## Install
 
 ```sh
-npm install @dashevo/dashd-zmq
+npm install @xazab/xazabd-zmq
 ```
 
 ## Usage
@@ -29,19 +29,19 @@ npm start
 
 ## Documentation
 
-You can see some [Examples here](https://dashevo.github.io/js-dashd-zmq/#/usage/examples).
+You can see some [Examples here](https://xazab.github.io/js-xazabd-zmq/#/usage/examples).
 
-More [extensive documentation is available here](https://dashevo.github.io/js-dashd-zmq).
+More [extensive documentation is available here](https://xazab.github.io/js-xazabd-zmq).
 
 ## Maintainers
 
-Wallet-Lib is maintained by the [Dash Core Developers](https://www.github.com/dashevo).
+Wallet-Lib is maintained by the [Xazab Core Developers](https://www.github.com/xazab).
 We want to thank all members of the community that have submitted suggestions, issues and pull requests.
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/dashevo/js-dashd-zmq/issues/new) or submit PRs.
+Feel free to dive in! [Open an issue](https://github.com/xazab/js-xazabd-zmq/issues/new) or submit PRs.
 
 ## License
 
-[MIT](LICENSE) &copy; Dash Core Group, Inc.
+[MIT](LICENSE) &copy; Dash Core Group, Inc. | &copy; Xazab Foundation

@@ -6,5 +6,5 @@
         - [`.disconnect()`](/usage/ZMQClient/disconnect.md)
         - [`.subscribe()`](/usage/ZMQClient/subscribe.md)
     - [Examples](/usage/examples.md)
-- [License](https://raw.githubusercontent.com/dashevo/js-dashd-zmq/master/LICENSE)
-- [Changelog](https://raw.githubusercontent.com/dashevo/js-dashd-zmq/master/CHANGELOG.md)
+- [License](https://raw.githubusercontent.com/xazab/js-xazabd-zmq/master/LICENSE)
+- [Changelog](https://raw.githubusercontent.com/xazab/js-xazabd-zmq/master/CHANGELOG.md)

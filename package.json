@@ -1,7 +1,7 @@
 {
-  "name": "@dashevo/dashd-zmq",
+  "name": "@xazab/xazabd-zmq",
   "version": "1.2.0",
-  "description": "Dash Client Library to connect and subscribe to Dash Core (dashd)'s ZMQ topics",
+  "description": "Xazab Client Library to connect and subscribe to Xazab Core (xazabd)'s ZMQ topics",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run test:unit",
@@ -19,7 +19,7 @@
     }
   ],
   "keywords": [
-    "dash",
+    "xazab",
     "zmq"
   ],
   "dependencies": {
@@ -35,11 +35,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashevo/js-dashd-zmq.git"
+    "url": "git+https://github.com/xazab/js-xazabd-zmq.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dashevo/js-dashd-zmq/issues"
+    "url": "https://github.com/xazab/js-xazabd-zmq/issues"
   },
-  "homepage": "https://github.com/dashevo/js-dashd-zmq#readme"
+  "homepage": "https://github.com/xazab/js-xazabd-zmq#readme"
 }
